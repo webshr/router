@@ -1,4 +1,4 @@
-# WP HTMX Router
+# Webshr Router
 [![Latest Stable Version](https://poser.pugx.org/webshr/router/v/stable)](https://packagist.org/packages/webshr/router)
 ![CI](https://github.com/webshr/router/actions/workflows/ci.yml/badge.svg?branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/webshrrouter/badge.svg)](https://coveralls.io/github/webshr/router)
